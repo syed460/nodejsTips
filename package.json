@@ -1,0 +1,20 @@
+{
+  "name": "nodejstips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forloop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed460/nodejsTips.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed460/nodejsTips/issues"
+  },
+  "homepage": "https://github.com/syed460/nodejsTips#readme"
+}
