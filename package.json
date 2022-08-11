@@ -4,6 +4,7 @@
   "description": "",
   "main": "forloop.js",
   "scripts": {
+    "start": "node node-schedule.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/syed460/nodejsTips/issues"
   },
-  "homepage": "https://github.com/syed460/nodejsTips#readme"
+  "homepage": "https://github.com/syed460/nodejsTips#readme",
+  "dependencies": {
+    "node-schedule": "^2.1.0"
+  }
 }
